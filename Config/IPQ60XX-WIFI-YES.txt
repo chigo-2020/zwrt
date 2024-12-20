@@ -13,3 +13,12 @@ CONFIG_TARGET_DEVICE_qualcommax_ipq60xx_DEVICE_redmi_ax5-jdcloud=n
 CONFIG_TARGET_DEVICE_qualcommax_ipq60xx_DEVICE_redmi_ax5=n
 CONFIG_TARGET_DEVICE_qualcommax_ipq60xx_DEVICE_xiaomi_ax1800=n
 CONFIG_TARGET_DEVICE_qualcommax_ipq60xx_DEVICE_zn_m2=n
+#WIFI驱动20241220
+CONFIG_PACKAGE_kmod-ath11k=y
+CONFIG_PACKAGE_kmod-ath11k-ahb=y
+CONFIG_PACKAGE_kmod-ath11k-pci=y
+CONFIG_PACKAGE_ath11k-firmware-ipq8074=m
+CONFIG_PACKAGE_ath11k-firmware-qcn9074=m
+CONFIG_PACKAGE_kmod-ath10k=m
+CONFIG_PACKAGE_kmod-ath10k-smallbuffers=m
+CONFIG_PACKAGE_ath10k-firmware-qca9887=m
