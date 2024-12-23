@@ -1888,4 +1888,4 @@ CONFIG_PACKAGE_python3-xml=m
 CONFIG_PACKAGE_liblzma=m
 CONFIG_PACKAGE_luci-app-netspeedtest=m
 CONFIG_PACKAGE_luci-i18n-netspeedtest-zh-cn=m
-CONFIG_PACKAGE_homebox=m
+#CONFIG_PACKAGE_homebox=n
